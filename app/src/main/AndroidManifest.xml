@@ -13,7 +13,7 @@
         <activity android:name=".MemberDetail" />
         <activity android:name=".MemberList" />
         <activity android:name=".Login" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".Main">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

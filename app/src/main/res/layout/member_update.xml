@@ -5,12 +5,12 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
 
-    <Button
-        android:id="@+id/btn_login"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:text="login"
-        android:layout_marginTop="5dp"
-        android:textSize="20dp"/>
 
+    <Button
+        android:id="@+id/btn_redetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="detail"
+        android:layout_marginTop="5dp"
+        android:textSize="10dp"/>
 </LinearLayout>
